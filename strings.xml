@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GNSS Tethering Bridge</string>
+    <string name="start_tethering">Włącz tethering</string>
+    <string name="start_bridge">Uruchom mostek</string>
+    <string name="stop_bridge">Zatrzymaj mostek</string>
+    <string name="status_ready">Gotowy. Włącz hotspot, jeśli system o to poprosi.</string>
+</resources>
